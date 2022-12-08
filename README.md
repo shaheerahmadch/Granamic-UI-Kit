@@ -2,9 +2,7 @@
 Granamic UI Kit for Power Apps Canvas
 
 
-MIT License
-
-Copyright (c) 2022 Kristine Kolodziejski
+Copyright (c) 2022 Shaheer Ahmad
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
