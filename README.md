@@ -1,4 +1,4 @@
-# Granamic-UI-Kit
+# Granamic-UI-Template
 Granamic UI Kit for Power Apps Canvas
 
 
