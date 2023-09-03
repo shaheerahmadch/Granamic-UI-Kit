@@ -1,5 +1,7 @@
 # Granamic-UI-Template
-Granamic UI Kit for Power Apps Canvas
+
+![Screenshot 2022-10-04 124810sa](https://github.com/shaheerahmadch/Granamic-UI-Kit/assets/114233717/844e4c46-08ea-4ab4-9875-41273548726b)
+
 
 
 Copyright (c) 2022 Shaheer Ahmad
